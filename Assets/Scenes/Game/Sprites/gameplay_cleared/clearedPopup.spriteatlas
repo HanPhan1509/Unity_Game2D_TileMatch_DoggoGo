@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: clearedPopup
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8ead6cc162f2cfc408ef04a8b9fd9b6f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 436dcae1b85a6b34697ffce7011d67ee, type: 3}
+  - {fileID: 21300000, guid: f2853624e356a00498ea22340181aa41, type: 3}
+  - {fileID: 21300000, guid: 74803194a5a8a8145b233e338d6fee0b, type: 3}
+  - {fileID: 21300000, guid: 2f3abf27b72b7f24da5e2a340ab7f30b, type: 3}
+  - {fileID: 21300000, guid: b7d8b3d732d5cc84681d69a8698335bc, type: 3}
+  - {fileID: 21300000, guid: eea0522827764e642b4abb3b3c23ecfa, type: 3}
+  - {fileID: 21300000, guid: cceb492876e85b3449b0593219a0e2b4, type: 3}
+  - {fileID: 21300000, guid: faec9a285b9066c4d9843c9d3e156def, type: 3}
+  - {fileID: 21300000, guid: 3bac6f7ad8f2cdf4ab46e3077df20fa2, type: 3}
+  - {fileID: 21300000, guid: ba280ffa061f28e40b391dcdd08fa454, type: 3}
+  - {fileID: 21300000, guid: defe732bd58217f46af758f08098f2ee, type: 3}
+  - {fileID: 21300000, guid: 1e44987b04bba984ab816a17f68d5689, type: 3}
+  - {fileID: 21300000, guid: 8cdaadeca43d16a459d1936c36cf5ce9, type: 3}
+  - {fileID: 21300000, guid: 90596aede235f2c4dbe0209d6cef57fd, type: 3}
+  - {fileID: 21300000, guid: 0110183e101eb1f48a16650284ccf81e, type: 3}
+  - {fileID: 21300000, guid: 46ccefcfb3a26314d9919f2dc4e28682, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - nut_do
+  - sao_ben_nho
+  - khung_dut
+  - sao_giua_noi
+  - giay
+  - nut_cam
+  - nut xanh la
+  - bang_ron
+  - nut_xanh
+  - sao_ben_noi
+  - boost 2
+  - +1 copy 2
+  - boost 1
+  - khung_xanh
+  - sao_giua
+  - boost 3
+  m_RenderDataMap: {}
+  m_Tag: clearedPopup
+  m_IsVariant: 0

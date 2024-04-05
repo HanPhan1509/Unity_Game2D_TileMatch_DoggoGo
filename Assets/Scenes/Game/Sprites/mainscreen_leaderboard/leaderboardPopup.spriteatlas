@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: leaderboardPopup
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 8fe17f7aa1575224d862dd1e5c622481, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ca4db5f102ccbd244aacd0adebda229a, type: 3}
+  - {fileID: 21300000, guid: 99d79fa2b1520b0419d38f4901d9efe0, type: 3}
+  - {fileID: 21300000, guid: 3dac49032af31ec43a9022142d7a6237, type: 3}
+  - {fileID: 21300000, guid: dd7696d4911fe5945b072a6c6a85f69c, type: 3}
+  - {fileID: 21300000, guid: 86ac79c6d5c11704984b746ac1927a70, type: 3}
+  - {fileID: 21300000, guid: 69018157437d7d543a992a9f07037625, type: 3}
+  - {fileID: 21300000, guid: 9637fdb7975a1c34ca92089523b2d613, type: 3}
+  - {fileID: 21300000, guid: 8a5e7f59b91de9c489b3acc9725a61b0, type: 3}
+  - {fileID: 21300000, guid: 0cdf7d89c3ce6004abf93a1dbc98f033, type: 3}
+  - {fileID: 21300000, guid: 03dff0eab7ae5c246ab123aec32f7910, type: 3}
+  - {fileID: 21300000, guid: 7ff4c7cb12c20f540ba49dde5e6b943d, type: 3}
+  - {fileID: 21300000, guid: 15722e2e60997f147a124b511e1cf666, type: 3}
+  - {fileID: 21300000, guid: 6b087c8ee3df97c4d844408b0ff5d825, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - khung_playername
+  - khung_nau
+  - giay
+  - thanh_vang
+  - khung_xanh
+  - x
+  - khung_dut
+  - vuong_mien_vang
+  - ranked_vang
+  - qua
+  - vuong_mien_bac
+  - tab_duoc_chon
+  - vuong_mien_dong
+  m_RenderDataMap: {}
+  m_Tag: leaderboardPopup
+  m_IsVariant: 0

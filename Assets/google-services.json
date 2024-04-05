@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "888564608951",
+    "project_id": "tile-match-journey-cb91a",
+    "storage_bucket": "tile-match-journey-cb91a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888564608951:android:a38129d5326ec006e20232",
+        "android_client_info": {
+          "package_name": "game.onechain.tilematchjourney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888564608951-unadm40au5a3lt6043g7i9ajvog0ack8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcPwIsJoe_0gwqmsAWkatHHJTGiqFZMho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888564608951-unadm40au5a3lt6043g7i9ajvog0ack8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888564608951-ggldqd31drvl0a5gc1q7j65anca0p0st.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "game.onechain.tilematchjourney"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: mainscreen
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 56daf6ca4087e1f4881f887f103209c7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 83da9d10f162d894497b8cadc1b9caa6, type: 3}
+  - {fileID: 21300000, guid: e3d732204bd38f24eb9a1e79aeacda90, type: 3}
+  - {fileID: 21300000, guid: 9b6add302e653d5489443e9148ecd4aa, type: 3}
+  - {fileID: 21300000, guid: 06c22c7106255044bba035fc56f15196, type: 3}
+  - {fileID: 21300000, guid: 2d36a9228252a7f45af4a70d665054b3, type: 3}
+  - {fileID: 21300000, guid: 4de9a6f2566eab3439e26fb93a22cb0b, type: 3}
+  - {fileID: 21300000, guid: fac3bd03dd48a7448b554a935c900f8d, type: 3}
+  - {fileID: 21300000, guid: 9cbb2d139d790a64399b16b6994152db, type: 3}
+  - {fileID: 21300000, guid: a9427b837f8c4d34082cdd5aeb15f128, type: 3}
+  - {fileID: 21300000, guid: 12dc1f8323139d4409484bf535dfcefd, type: 3}
+  - {fileID: 21300000, guid: 0577b4933da1e6548bdb0231d6576804, type: 3}
+  - {fileID: 21300000, guid: 9a067f9499c7b8f40975a8ed1aea7b63, type: 3}
+  - {fileID: 21300000, guid: a39ea4e4ad9364f4c920a26b68b0cdd0, type: 3}
+  - {fileID: 21300000, guid: ae5eb105f3abb1e42859ba365b6ba486, type: 3}
+  - {fileID: 21300000, guid: 59008a351716bf64b9c7d8fe8c126a80, type: 3}
+  - {fileID: 21300000, guid: 2c4a5495509e5b4478290c66817581a4, type: 3}
+  - {fileID: 21300000, guid: 32e81d364069408469dcfe830ad00920, type: 3}
+  - {fileID: 21300000, guid: 93fd1186388affe4f8382c02a22fbd95, type: 3}
+  - {fileID: 21300000, guid: 49052ba69fb4276479f080d28950d7c3, type: 3}
+  - {fileID: 21300000, guid: eeb8d97744a3ecf47a1a39c73825d42e, type: 3}
+  - {fileID: 21300000, guid: 62fe0a97780f14846a13995fac80e121, type: 3}
+  - {fileID: 21300000, guid: 2a661e285fc4cbb4c8aaa1515c8c3440, type: 3}
+  - {fileID: 21300000, guid: 303ea858abe86504bbe26703aa4037d2, type: 3}
+  - {fileID: 21300000, guid: 911b32688ac751b4c89e2ebe98ae7495, type: 3}
+  - {fileID: 21300000, guid: d5f90e8899cdb774db15bcc2de643062, type: 3}
+  - {fileID: 21300000, guid: 1d0d2e98918a51f429076952b807d13c, type: 3}
+  - {fileID: 21300000, guid: a0efce7907db26b4f85b3db8d03fe024, type: 3}
+  - {fileID: 21300000, guid: 8573ce8920307d94fb2229392011d182, type: 3}
+  - {fileID: 21300000, guid: 84ff89a9103dbbc498954aa953ea0e0c, type: 3}
+  - {fileID: 21300000, guid: e8bf0eb9b0fc49d48abbd34429a720a9, type: 3}
+  - {fileID: 21300000, guid: 86abae6af710b46468fe35f85e14f9c5, type: 3}
+  - {fileID: 21300000, guid: deedcb2b3093efe41a83ab355ecb670a, type: 3}
+  - {fileID: 21300000, guid: 3590ca9b14e3196478a4a56a8b75e4d9, type: 3}
+  - {fileID: 21300000, guid: de555adc8d4364c488a6de41aea64308, type: 3}
+  - {fileID: 21300000, guid: 21ee54ecb903a5649867355ef518eb1c, type: 3}
+  - {fileID: 21300000, guid: 490a880d077871548963f12e898771fc, type: 3}
+  - {fileID: 21300000, guid: 388cd23d932e87b45a00794a43eec91f, type: 3}
+  - {fileID: 21300000, guid: c09442ade0be039439fcddd105fe0692, type: 3}
+  - {fileID: 21300000, guid: ca21e5bd7ee3a7647b80daa706f196fc, type: 3}
+  - {fileID: 21300000, guid: 53bd8c0e87e0950489a80f696ef76bab, type: 3}
+  - {fileID: 21300000, guid: c5e6b3bef23098845a44ac25a458af47, type: 3}
+  - {fileID: 21300000, guid: 10eb0fdf87543574c8f9f607fd97a2f8, type: 3}
+  - {fileID: 21300000, guid: 03629eefaf913154fbf2d28feb80f021, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - may_1
+  - cay_6
+  - ruong
+  - setting
+  - coin
+  - ranking
+  - nut_vang
+  - xanh_dam_icon
+  - map
+  - khung_tien
+  - cay_2
+  - Shop
+  - cay_5
+  - cloud
+  - cay_4
+  - la_1
+  - sao_3
+  - dat
+  - scarecrow
+  - bui_1
+  - note
+  - khung_xanh_home
+  - sao_1
+  - nut_select_level
+  - dao
+  - sao_vang
+  - cup
+  - cay_1
+  - cay hoa
+  - bui_2
+  - nut_phai
+  - nut_trai
+  - cay_sau_cung
+  - dao
+  - hoa
+  - may_2
+  - sao_2
+  - la_2
+  - bui_3
+  - La ca rot
+  - cay_3
+  - nut_play
+  - may
+  m_RenderDataMap: {}
+  m_Tag: mainscreen
+  m_IsVariant: 0

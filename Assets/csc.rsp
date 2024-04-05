@@ -1,0 +1,3 @@
+-define:UNITY_DEBUG
+-define:ENABLE_LOGS
+-define:ENABLE_THROWS

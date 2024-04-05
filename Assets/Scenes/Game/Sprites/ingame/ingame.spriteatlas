@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ingame
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b8a729549ddb51f4f891fdba4c759913, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 78ef7200361574d42924bc8b37751fc5, type: 3}
+  - {fileID: 21300000, guid: 88b7af50a0873db4ca276dc32d12ec43, type: 3}
+  - {fileID: 21300000, guid: aed5aaf18bcd94d4fa37e8c1ddd9d6af, type: 3}
+  - {fileID: 21300000, guid: 30170662cc7f439409112af3f7291dfc, type: 3}
+  - {fileID: 21300000, guid: ba17a092999045f48aeb8902bf0b37eb, type: 3}
+  - {fileID: 21300000, guid: 3cd0355381173684880bd2dad927e190, type: 3}
+  - {fileID: 21300000, guid: 2f49aeb39db93204f9ffad756dd9a7cf, type: 3}
+  - {fileID: 21300000, guid: 852fb814cb826da48ab0e3e6416e7e85, type: 3}
+  - {fileID: 21300000, guid: a401b8a4ce277d549bd10232bf76a064, type: 3}
+  - {fileID: 21300000, guid: a17b62d45061e9242b01f3b12a6ff8e4, type: 3}
+  - {fileID: 21300000, guid: f78a2d05d170baf4abb49346dd9979cd, type: 3}
+  - {fileID: 21300000, guid: 15412275fba7ca9409ab948f4b0798bf, type: 3}
+  - {fileID: 21300000, guid: 6bd623850c146eb43a05cdd5a5b43251, type: 3}
+  - {fileID: 21300000, guid: a5c120d5997eb514daccfa55a6904035, type: 3}
+  - {fileID: 21300000, guid: 3a840df5e9351224a8ee98f74a6b8ca4, type: 3}
+  - {fileID: 21300000, guid: 4a14be4609d3df8448e5982e79465e4e, type: 3}
+  - {fileID: 21300000, guid: df13ca86a60a0a0479ddfdfa9b301203, type: 3}
+  - {fileID: 21300000, guid: d1194e868dafa5140a4b605284279e2b, type: 3}
+  - {fileID: 21300000, guid: a75dd2f67e6be5b40a19485fb6d11a30, type: 3}
+  - {fileID: 21300000, guid: 115743571d6faae49b34a26a4aa322cc, type: 3}
+  - {fileID: 21300000, guid: ec790c5794b8e9c41ba636ef044e3de3, type: 3}
+  - {fileID: 21300000, guid: dcbd45677239a8a46b69f97a71a52f44, type: 3}
+  - {fileID: 21300000, guid: d70669673a76cc44083053c6567f26a9, type: 3}
+  - {fileID: 21300000, guid: fde5eb77beb579c43b5ab446aad1a12c, type: 3}
+  - {fileID: 21300000, guid: 9fe9b0977ad26c744ac46f338ad63c43, type: 3}
+  - {fileID: 21300000, guid: 6f723bb793742ab4ba3a86d2b2de030f, type: 3}
+  - {fileID: 21300000, guid: c187cfe7e2ef82b40ac00ee1d0ed3089, type: 3}
+  - {fileID: 21300000, guid: 3261e13827158b440aa34b5d9597a317, type: 3}
+  - {fileID: 21300000, guid: efc619f8cce09ba40a2787d1319560c5, type: 3}
+  - {fileID: 21300000, guid: 4cb4fe09d523c80499c6f53928eb18e7, type: 3}
+  - {fileID: 21300000, guid: 4471fe19dc87a0549972419870d2ab13, type: 3}
+  - {fileID: 21300000, guid: eececa49417534345b0f842186a24e8c, type: 3}
+  - {fileID: 21300000, guid: 105066997e012c645b7060c71702d6ba, type: 3}
+  - {fileID: 21300000, guid: ee1e90b90aff324449e6eb54df1e1096, type: 3}
+  - {fileID: 21300000, guid: c2b5885a2b48d90458b0382f75cfbbc2, type: 3}
+  - {fileID: 21300000, guid: 4244d6fa8f482e84583765b4cbe25958, type: 3}
+  - {fileID: 21300000, guid: 332f314b16fb9a740a8a46ac1c17b064, type: 3}
+  - {fileID: 21300000, guid: a3437ebbb8ce5be429900e928ec9244d, type: 3}
+  - {fileID: 21300000, guid: aeeed9eb3cdd36b419698eb4b19973ec, type: 3}
+  - {fileID: 21300000, guid: 24541f1c35d44a046af85b5dc30beeb8, type: 3}
+  - {fileID: 21300000, guid: 3dc5ed4c18b419741a0cf095d06733a4, type: 3}
+  - {fileID: 21300000, guid: 5e9dcb7da1a004c43abdd7d9ea99a701, type: 3}
+  - {fileID: 21300000, guid: 13d54ead3207fd445948bd31d8a3593d, type: 3}
+  - {fileID: 21300000, guid: 6397f50ece676b74fb55831bf5cbef0a, type: 3}
+  - {fileID: 21300000, guid: 44ca323e8ce2edc4c996981435f87d89, type: 3}
+  - {fileID: 21300000, guid: 1ce7728e74018c64dae24746c9da7753, type: 3}
+  - {fileID: 21300000, guid: 624ba7be48217c54b8c3f788b68d3a3e, type: 3}
+  - {fileID: 21300000, guid: 5c8d58afe0cbbc245a937264d2ae6cd7, type: 3}
+  - {fileID: 21300000, guid: ba1cd9bf6dc41784a8326c409302fac6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - boost_1
+  - t3
+  - t1
+  - t9_toi
+  - chan_cho
+  - t14
+  - t12
+  - t6_toi
+  - t6
+  - khung_thanh_sao
+  - thanh_sao
+  - +1
+  - t5_toi
+  - khung_xanh_duoi
+  - t13_toi
+  - t10
+  - t10_toi
+  - khung_xanh_la_tren
+  - t5
+  - t7_toi
+  - khay_dung_the
+  - t12_toi
+  - t11
+  - t13
+  - t9
+  - t4
+  - chan_meo
+  - khung_thanh_combo
+  - boost_2
+  - setting
+  - t7
+  - thanh_combo_mask
+  - t2
+  - t3_toi
+  - khung_xam
+  - t4_toi
+  - thanh_combo
+  - t15
+  - boost_3
+  - sao
+  - tron_trang
+  - t15_toi
+  - t8_toi
+  - t11_toi
+  - +
+  - t8
+  - t14_toi
+  - t2_toi
+  - t1_toi
+  m_RenderDataMap: {}
+  m_Tag: ingame
+  m_IsVariant: 0

@@ -1,0 +1,1609 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f6ae7aafc1e78a4b8e1b3d9cf78d9da, type: 3}
+  m_Name: level_24_normal
+  m_EditorClassIdentifier: 
+  Root:
+    Id: 0
+    Position: {x: 0, y: 0}
+    ParentCount: 0
+    Childrens:
+    - rid: 2665816729399067047
+    - rid: 2665816729399067048
+    - rid: 2665816729399067049
+    - rid: 2665816729399067050
+    - rid: 2665816729399067051
+    - rid: 2665816729399067052
+  Nodes:
+  - Id: 0
+    Position: {x: 0, y: 795}
+    ParentCount: 2
+    Childrens: []
+  - Id: 1
+    Position: {x: -147, y: 636}
+    ParentCount: 1
+    Childrens: []
+  - Id: 2
+    Position: {x: 0, y: 636}
+    ParentCount: 2
+    Childrens: []
+  - Id: 3
+    Position: {x: 147, y: 636}
+    ParentCount: 1
+    Childrens: []
+  - Id: 4
+    Position: {x: -147, y: 477}
+    ParentCount: 1
+    Childrens: []
+  - Id: 5
+    Position: {x: 0, y: 477}
+    ParentCount: 2
+    Childrens: []
+  - Id: 6
+    Position: {x: 147, y: 477}
+    ParentCount: 1
+    Childrens: []
+  - Id: 7
+    Position: {x: -147, y: 318}
+    ParentCount: 3
+    Childrens: []
+  - Id: 8
+    Position: {x: -294, y: 318}
+    ParentCount: 3
+    Childrens: []
+  - Id: 9
+    Position: {x: -441, y: 318}
+    ParentCount: 2
+    Childrens: []
+  - Id: 10
+    Position: {x: 0, y: 318}
+    ParentCount: 4
+    Childrens: []
+  - Id: 11
+    Position: {x: 147, y: 318}
+    ParentCount: 3
+    Childrens: []
+  - Id: 12
+    Position: {x: 294, y: 318}
+    ParentCount: 3
+    Childrens: []
+  - Id: 13
+    Position: {x: 441, y: 318}
+    ParentCount: 2
+    Childrens: []
+  - Id: 14
+    Position: {x: 441, y: 477}
+    ParentCount: 1
+    Childrens: []
+  - Id: 15
+    Position: {x: -441, y: 477}
+    ParentCount: 1
+    Childrens: []
+  - Id: 16
+    Position: {x: -441, y: 159}
+    ParentCount: 1
+    Childrens: []
+  - Id: 17
+    Position: {x: 441, y: 159}
+    ParentCount: 1
+    Childrens: []
+  - Id: 18
+    Position: {x: 294, y: 159}
+    ParentCount: 2
+    Childrens: []
+  - Id: 19
+    Position: {x: 147, y: 159}
+    ParentCount: 2
+    Childrens: []
+  - Id: 20
+    Position: {x: 0, y: 159}
+    ParentCount: 2
+    Childrens: []
+  - Id: 21
+    Position: {x: -147, y: 159}
+    ParentCount: 2
+    Childrens: []
+  - Id: 22
+    Position: {x: -294, y: 159}
+    ParentCount: 2
+    Childrens: []
+  - Id: 23
+    Position: {x: -147, y: 0}
+    ParentCount: 1
+    Childrens: []
+  - Id: 24
+    Position: {x: 0, y: 0}
+    ParentCount: 1
+    Childrens: []
+  - Id: 25
+    Position: {x: 147, y: 0}
+    ParentCount: 1
+    Childrens: []
+  - Id: 26
+    Position: {x: 147, y: -159}
+    ParentCount: 1
+    Childrens: []
+  - Id: 27
+    Position: {x: 0, y: -159}
+    ParentCount: 1
+    Childrens: []
+  - Id: 28
+    Position: {x: -147, y: -159}
+    ParentCount: 1
+    Childrens: []
+  - Id: 29
+    Position: {x: -147, y: -318}
+    ParentCount: 3
+    Childrens: []
+  - Id: 30
+    Position: {x: 0, y: -318}
+    ParentCount: 3
+    Childrens: []
+  - Id: 31
+    Position: {x: 147, y: -318}
+    ParentCount: 3
+    Childrens: []
+  - Id: 32
+    Position: {x: -294, y: -318}
+    ParentCount: 3
+    Childrens: []
+  - Id: 33
+    Position: {x: 294, y: -318}
+    ParentCount: 3
+    Childrens: []
+  - Id: 34
+    Position: {x: -294, y: -477}
+    ParentCount: 2
+    Childrens: []
+  - Id: 35
+    Position: {x: -441, y: -477}
+    ParentCount: 1
+    Childrens: []
+  - Id: 36
+    Position: {x: -147, y: -477}
+    ParentCount: 2
+    Childrens: []
+  - Id: 37
+    Position: {x: 0, y: -477}
+    ParentCount: 2
+    Childrens: []
+  - Id: 38
+    Position: {x: 147, y: -477}
+    ParentCount: 2
+    Childrens: []
+  - Id: 39
+    Position: {x: 294, y: -477}
+    ParentCount: 2
+    Childrens: []
+  - Id: 40
+    Position: {x: 441, y: -477}
+    ParentCount: 1
+    Childrens: []
+  - Id: 41
+    Position: {x: -367.5, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067053
+    - rid: 2665816729399067054
+    - rid: 2665816729399067055
+  - Id: 42
+    Position: {x: -367.5, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067056
+  - Id: 43
+    Position: {x: -220.5, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067057
+    - rid: 2665816729399067053
+    - rid: 2665816729399067054
+    - rid: 2665816729399067058
+  - Id: 44
+    Position: {x: -220.5, y: -397.5}
+    ParentCount: 2
+    Childrens:
+    - rid: 2665816729399067059
+  - Id: 45
+    Position: {x: -73.5, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067057
+    - rid: 2665816729399067060
+    - rid: 2665816729399067058
+    - rid: 2665816729399067061
+  - Id: 46
+    Position: {x: -73.5, y: -397.5}
+    ParentCount: 2
+    Childrens:
+    - rid: 2665816729399067062
+  - Id: 47
+    Position: {x: 73.5, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067060
+    - rid: 2665816729399067063
+    - rid: 2665816729399067061
+    - rid: 2665816729399067064
+  - Id: 48
+    Position: {x: 73.5, y: -397.5}
+    ParentCount: 2
+    Childrens:
+    - rid: 2665816729399067065
+  - Id: 49
+    Position: {x: 220.5, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067063
+    - rid: 2665816729399067066
+    - rid: 2665816729399067064
+    - rid: 2665816729399067067
+  - Id: 50
+    Position: {x: 220.5, y: -397.5}
+    ParentCount: 2
+    Childrens:
+    - rid: 2665816729399067068
+  - Id: 51
+    Position: {x: 367.5, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067066
+    - rid: 2665816729399067067
+    - rid: 2665816729399067069
+  - Id: 52
+    Position: {x: 367.5, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067070
+  - Id: 53
+    Position: {x: 294, y: -238.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067066
+  - Id: 54
+    Position: {x: 147, y: -238.5}
+    ParentCount: 2
+    Childrens:
+    - rid: 2665816729399067071
+    - rid: 2665816729399067063
+  - Id: 55
+    Position: {x: 0, y: -238.5}
+    ParentCount: 2
+    Childrens:
+    - rid: 2665816729399067072
+    - rid: 2665816729399067060
+  - Id: 56
+    Position: {x: -147, y: -238.5}
+    ParentCount: 2
+    Childrens:
+    - rid: 2665816729399067073
+    - rid: 2665816729399067057
+  - Id: 57
+    Position: {x: -294, y: -238.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067053
+  - Id: 58
+    Position: {x: -220.5, y: -159}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067074
+    - rid: 2665816729399067075
+  - Id: 59
+    Position: {x: -220.5, y: -159}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067076
+  - Id: 60
+    Position: {x: -73.5, y: -159}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067077
+    - rid: 2665816729399067074
+  - Id: 61
+    Position: {x: -73.5, y: -159}
+    ParentCount: 2
+    Childrens:
+    - rid: 2665816729399067078
+  - Id: 62
+    Position: {x: 73.5, y: -159}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067079
+    - rid: 2665816729399067077
+  - Id: 63
+    Position: {x: 73.5, y: -159}
+    ParentCount: 2
+    Childrens:
+    - rid: 2665816729399067080
+  - Id: 64
+    Position: {x: 220.5, y: -159}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067081
+    - rid: 2665816729399067079
+  - Id: 65
+    Position: {x: 220.5, y: -159}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067082
+  - Id: 66
+    Position: {x: 147, y: -79.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067083
+    - rid: 2665816729399067084
+    - rid: 2665816729399067085
+  - Id: 67
+    Position: {x: 0, y: -79.5}
+    ParentCount: 2
+    Childrens:
+    - rid: 2665816729399067086
+    - rid: 2665816729399067087
+    - rid: 2665816729399067084
+  - Id: 68
+    Position: {x: -147, y: -79.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067088
+    - rid: 2665816729399067089
+    - rid: 2665816729399067087
+  - Id: 69
+    Position: {x: -73.5, y: 0}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067090
+    - rid: 2665816729399067091
+  - Id: 70
+    Position: {x: 73.5, y: 0}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067092
+    - rid: 2665816729399067090
+  - Id: 71
+    Position: {x: -294, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067093
+    - rid: 2665816729399067094
+  - Id: 72
+    Position: {x: -147, y: -397.5}
+    ParentCount: 2
+    Childrens:
+    - rid: 2665816729399067094
+    - rid: 2665816729399067095
+  - Id: 73
+    Position: {x: 0, y: -397.5}
+    ParentCount: 2
+    Childrens:
+    - rid: 2665816729399067095
+    - rid: 2665816729399067096
+  - Id: 74
+    Position: {x: 147, y: -397.5}
+    ParentCount: 2
+    Childrens:
+    - rid: 2665816729399067096
+    - rid: 2665816729399067097
+  - Id: 75
+    Position: {x: 294, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067097
+    - rid: 2665816729399067098
+  - Id: 76
+    Position: {x: 220.5, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067099
+    - rid: 2665816729399067100
+  - Id: 77
+    Position: {x: 73.5, y: -397.5}
+    ParentCount: 2
+    Childrens:
+    - rid: 2665816729399067101
+    - rid: 2665816729399067099
+  - Id: 78
+    Position: {x: -73.5, y: -397.5}
+    ParentCount: 2
+    Childrens:
+    - rid: 2665816729399067102
+    - rid: 2665816729399067101
+  - Id: 79
+    Position: {x: -220.5, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067103
+    - rid: 2665816729399067102
+  - Id: 80
+    Position: {x: -147, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067104
+    - rid: 2665816729399067105
+  - Id: 81
+    Position: {x: 0, y: -397.5}
+    ParentCount: 2
+    Childrens:
+    - rid: 2665816729399067106
+    - rid: 2665816729399067104
+  - Id: 82
+    Position: {x: 147, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067107
+    - rid: 2665816729399067106
+  - Id: 83
+    Position: {x: 73.5, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067108
+    - rid: 2665816729399067109
+  - Id: 84
+    Position: {x: -73.5, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067110
+    - rid: 2665816729399067108
+  - Id: 85
+    Position: {x: 0, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067111
+    - rid: 2665816729399067112
+  - Id: 86
+    Position: {x: 0, y: -397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067113
+  - Id: 87
+    Position: {x: 0, y: -397.5}
+    ParentCount: 0
+    Childrens:
+    - rid: 2665816729399067114
+  - Id: 88
+    Position: {x: -367.5, y: 397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067115
+    - rid: 2665816729399067116
+    - rid: 2665816729399067117
+  - Id: 89
+    Position: {x: -367.5, y: 238.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067115
+    - rid: 2665816729399067116
+    - rid: 2665816729399067118
+    - rid: 2665816729399067119
+  - Id: 90
+    Position: {x: -220.5, y: 238.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067120
+    - rid: 2665816729399067115
+    - rid: 2665816729399067121
+    - rid: 2665816729399067119
+  - Id: 91
+    Position: {x: -73.5, y: 238.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067120
+    - rid: 2665816729399067122
+    - rid: 2665816729399067123
+    - rid: 2665816729399067121
+  - Id: 92
+    Position: {x: 73.5, y: 238.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067122
+    - rid: 2665816729399067124
+    - rid: 2665816729399067125
+    - rid: 2665816729399067123
+  - Id: 93
+    Position: {x: 220.5, y: 238.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067124
+    - rid: 2665816729399067126
+    - rid: 2665816729399067127
+    - rid: 2665816729399067125
+  - Id: 94
+    Position: {x: 367.5, y: 238.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067126
+    - rid: 2665816729399067128
+    - rid: 2665816729399067129
+    - rid: 2665816729399067127
+  - Id: 95
+    Position: {x: 367.5, y: 397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067126
+    - rid: 2665816729399067128
+    - rid: 2665816729399067130
+  - Id: 96
+    Position: {x: -73.5, y: 715.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067131
+    - rid: 2665816729399067132
+    - rid: 2665816729399067133
+  - Id: 97
+    Position: {x: 73.5, y: 715.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067131
+    - rid: 2665816729399067133
+    - rid: 2665816729399067134
+  - Id: 98
+    Position: {x: 73.5, y: 397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067135
+    - rid: 2665816729399067136
+    - rid: 2665816729399067122
+    - rid: 2665816729399067124
+  - Id: 99
+    Position: {x: -73.5, y: 397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067137
+    - rid: 2665816729399067135
+    - rid: 2665816729399067120
+    - rid: 2665816729399067122
+  - Id: 100
+    Position: {x: -73.5, y: 715.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067138
+  - Id: 101
+    Position: {x: -73.5, y: 715.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067139
+  - Id: 102
+    Position: {x: 73.5, y: 715.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067140
+  - Id: 103
+    Position: {x: 73.5, y: 715.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067141
+  - Id: 104
+    Position: {x: 0, y: 318}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067142
+    - rid: 2665816729399067143
+    - rid: 2665816729399067144
+    - rid: 2665816729399067145
+  - Id: 105
+    Position: {x: 0, y: 318}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067146
+  - Id: 106
+    Position: {x: 0, y: 318}
+    ParentCount: 0
+    Childrens:
+    - rid: 2665816729399067147
+  - Id: 107
+    Position: {x: 0, y: 731.4}
+    ParentCount: 0
+    Childrens:
+    - rid: 2665816729399067148
+    - rid: 2665816729399067149
+  - Id: 108
+    Position: {x: -367.5, y: 397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067150
+  - Id: 109
+    Position: {x: -367.5, y: 397.5}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067151
+  - Id: 110
+    Position: {x: -294, y: 318}
+    ParentCount: 0
+    Childrens:
+    - rid: 2665816729399067152
+    - rid: 2665816729399067153
+    - rid: 2665816729399067154
+  - Id: 111
+    Position: {x: 294, y: 318}
+    ParentCount: 0
+    Childrens:
+    - rid: 2665816729399067155
+    - rid: 2665816729399067156
+    - rid: 2665816729399067157
+  - Id: 112
+    Position: {x: 0, y: 0}
+    ParentCount: 1
+    Childrens:
+    - rid: 2665816729399067158
+    - rid: 2665816729399067159
+  - Id: 113
+    Position: {x: 0, y: 0}
+    ParentCount: 0
+    Childrens:
+    - rid: 2665816729399067160
+  rect:
+    serializedVersion: 2
+    x: -441
+    y: -477
+    width: 882
+    height: 1272
+  references:
+    version: 2
+    RefIds:
+    - rid: 2665816729399067047
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 87
+        Position: {x: 0, y: -397.5}
+        ParentCount: 0
+        Childrens:
+        - rid: 2665816729399067114
+    - rid: 2665816729399067048
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 106
+        Position: {x: 0, y: 318}
+        ParentCount: 0
+        Childrens:
+        - rid: 2665816729399067147
+    - rid: 2665816729399067049
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 107
+        Position: {x: 0, y: 731.4}
+        ParentCount: 0
+        Childrens:
+        - rid: 2665816729399067148
+        - rid: 2665816729399067149
+    - rid: 2665816729399067050
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 110
+        Position: {x: -294, y: 318}
+        ParentCount: 0
+        Childrens:
+        - rid: 2665816729399067152
+        - rid: 2665816729399067153
+        - rid: 2665816729399067154
+    - rid: 2665816729399067051
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 111
+        Position: {x: 294, y: 318}
+        ParentCount: 0
+        Childrens:
+        - rid: 2665816729399067155
+        - rid: 2665816729399067156
+        - rid: 2665816729399067157
+    - rid: 2665816729399067052
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 113
+        Position: {x: 0, y: 0}
+        ParentCount: 0
+        Childrens:
+        - rid: 2665816729399067160
+    - rid: 2665816729399067053
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 32
+        Position: {x: -294, y: -318}
+        ParentCount: 3
+        Childrens: []
+    - rid: 2665816729399067054
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 34
+        Position: {x: -294, y: -477}
+        ParentCount: 2
+        Childrens: []
+    - rid: 2665816729399067055
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 35
+        Position: {x: -441, y: -477}
+        ParentCount: 1
+        Childrens: []
+    - rid: 2665816729399067056
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 41
+        Position: {x: -367.5, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067053
+        - rid: 2665816729399067054
+        - rid: 2665816729399067055
+    - rid: 2665816729399067057
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 29
+        Position: {x: -147, y: -318}
+        ParentCount: 3
+        Childrens: []
+    - rid: 2665816729399067058
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 36
+        Position: {x: -147, y: -477}
+        ParentCount: 2
+        Childrens: []
+    - rid: 2665816729399067059
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 43
+        Position: {x: -220.5, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067057
+        - rid: 2665816729399067053
+        - rid: 2665816729399067054
+        - rid: 2665816729399067058
+    - rid: 2665816729399067060
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 30
+        Position: {x: 0, y: -318}
+        ParentCount: 3
+        Childrens: []
+    - rid: 2665816729399067061
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 37
+        Position: {x: 0, y: -477}
+        ParentCount: 2
+        Childrens: []
+    - rid: 2665816729399067062
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 45
+        Position: {x: -73.5, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067057
+        - rid: 2665816729399067060
+        - rid: 2665816729399067058
+        - rid: 2665816729399067061
+    - rid: 2665816729399067063
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 31
+        Position: {x: 147, y: -318}
+        ParentCount: 3
+        Childrens: []
+    - rid: 2665816729399067064
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 38
+        Position: {x: 147, y: -477}
+        ParentCount: 2
+        Childrens: []
+    - rid: 2665816729399067065
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 47
+        Position: {x: 73.5, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067060
+        - rid: 2665816729399067063
+        - rid: 2665816729399067061
+        - rid: 2665816729399067064
+    - rid: 2665816729399067066
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 33
+        Position: {x: 294, y: -318}
+        ParentCount: 3
+        Childrens: []
+    - rid: 2665816729399067067
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 39
+        Position: {x: 294, y: -477}
+        ParentCount: 2
+        Childrens: []
+    - rid: 2665816729399067068
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 49
+        Position: {x: 220.5, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067063
+        - rid: 2665816729399067066
+        - rid: 2665816729399067064
+        - rid: 2665816729399067067
+    - rid: 2665816729399067069
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 40
+        Position: {x: 441, y: -477}
+        ParentCount: 1
+        Childrens: []
+    - rid: 2665816729399067070
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 51
+        Position: {x: 367.5, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067066
+        - rid: 2665816729399067067
+        - rid: 2665816729399067069
+    - rid: 2665816729399067071
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 26
+        Position: {x: 147, y: -159}
+        ParentCount: 1
+        Childrens: []
+    - rid: 2665816729399067072
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 27
+        Position: {x: 0, y: -159}
+        ParentCount: 1
+        Childrens: []
+    - rid: 2665816729399067073
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 28
+        Position: {x: -147, y: -159}
+        ParentCount: 1
+        Childrens: []
+    - rid: 2665816729399067074
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 56
+        Position: {x: -147, y: -238.5}
+        ParentCount: 2
+        Childrens:
+        - rid: 2665816729399067073
+        - rid: 2665816729399067057
+    - rid: 2665816729399067075
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 57
+        Position: {x: -294, y: -238.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067053
+    - rid: 2665816729399067076
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 58
+        Position: {x: -220.5, y: -159}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067074
+        - rid: 2665816729399067075
+    - rid: 2665816729399067077
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 55
+        Position: {x: 0, y: -238.5}
+        ParentCount: 2
+        Childrens:
+        - rid: 2665816729399067072
+        - rid: 2665816729399067060
+    - rid: 2665816729399067078
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 60
+        Position: {x: -73.5, y: -159}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067077
+        - rid: 2665816729399067074
+    - rid: 2665816729399067079
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 54
+        Position: {x: 147, y: -238.5}
+        ParentCount: 2
+        Childrens:
+        - rid: 2665816729399067071
+        - rid: 2665816729399067063
+    - rid: 2665816729399067080
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 62
+        Position: {x: 73.5, y: -159}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067079
+        - rid: 2665816729399067077
+    - rid: 2665816729399067081
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 53
+        Position: {x: 294, y: -238.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067066
+    - rid: 2665816729399067082
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 64
+        Position: {x: 220.5, y: -159}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067081
+        - rid: 2665816729399067079
+    - rid: 2665816729399067083
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 25
+        Position: {x: 147, y: 0}
+        ParentCount: 1
+        Childrens: []
+    - rid: 2665816729399067084
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 63
+        Position: {x: 73.5, y: -159}
+        ParentCount: 2
+        Childrens:
+        - rid: 2665816729399067080
+    - rid: 2665816729399067085
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 65
+        Position: {x: 220.5, y: -159}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067082
+    - rid: 2665816729399067086
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 24
+        Position: {x: 0, y: 0}
+        ParentCount: 1
+        Childrens: []
+    - rid: 2665816729399067087
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 61
+        Position: {x: -73.5, y: -159}
+        ParentCount: 2
+        Childrens:
+        - rid: 2665816729399067078
+    - rid: 2665816729399067088
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 23
+        Position: {x: -147, y: 0}
+        ParentCount: 1
+        Childrens: []
+    - rid: 2665816729399067089
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 59
+        Position: {x: -220.5, y: -159}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067076
+    - rid: 2665816729399067090
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 67
+        Position: {x: 0, y: -79.5}
+        ParentCount: 2
+        Childrens:
+        - rid: 2665816729399067086
+        - rid: 2665816729399067087
+        - rid: 2665816729399067084
+    - rid: 2665816729399067091
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 68
+        Position: {x: -147, y: -79.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067088
+        - rid: 2665816729399067089
+        - rid: 2665816729399067087
+    - rid: 2665816729399067092
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 66
+        Position: {x: 147, y: -79.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067083
+        - rid: 2665816729399067084
+        - rid: 2665816729399067085
+    - rid: 2665816729399067093
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 42
+        Position: {x: -367.5, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067056
+    - rid: 2665816729399067094
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 44
+        Position: {x: -220.5, y: -397.5}
+        ParentCount: 2
+        Childrens:
+        - rid: 2665816729399067059
+    - rid: 2665816729399067095
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 46
+        Position: {x: -73.5, y: -397.5}
+        ParentCount: 2
+        Childrens:
+        - rid: 2665816729399067062
+    - rid: 2665816729399067096
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 48
+        Position: {x: 73.5, y: -397.5}
+        ParentCount: 2
+        Childrens:
+        - rid: 2665816729399067065
+    - rid: 2665816729399067097
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 50
+        Position: {x: 220.5, y: -397.5}
+        ParentCount: 2
+        Childrens:
+        - rid: 2665816729399067068
+    - rid: 2665816729399067098
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 52
+        Position: {x: 367.5, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067070
+    - rid: 2665816729399067099
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 74
+        Position: {x: 147, y: -397.5}
+        ParentCount: 2
+        Childrens:
+        - rid: 2665816729399067096
+        - rid: 2665816729399067097
+    - rid: 2665816729399067100
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 75
+        Position: {x: 294, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067097
+        - rid: 2665816729399067098
+    - rid: 2665816729399067101
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 73
+        Position: {x: 0, y: -397.5}
+        ParentCount: 2
+        Childrens:
+        - rid: 2665816729399067095
+        - rid: 2665816729399067096
+    - rid: 2665816729399067102
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 72
+        Position: {x: -147, y: -397.5}
+        ParentCount: 2
+        Childrens:
+        - rid: 2665816729399067094
+        - rid: 2665816729399067095
+    - rid: 2665816729399067103
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 71
+        Position: {x: -294, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067093
+        - rid: 2665816729399067094
+    - rid: 2665816729399067104
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 78
+        Position: {x: -73.5, y: -397.5}
+        ParentCount: 2
+        Childrens:
+        - rid: 2665816729399067102
+        - rid: 2665816729399067101
+    - rid: 2665816729399067105
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 79
+        Position: {x: -220.5, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067103
+        - rid: 2665816729399067102
+    - rid: 2665816729399067106
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 77
+        Position: {x: 73.5, y: -397.5}
+        ParentCount: 2
+        Childrens:
+        - rid: 2665816729399067101
+        - rid: 2665816729399067099
+    - rid: 2665816729399067107
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 76
+        Position: {x: 220.5, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067099
+        - rid: 2665816729399067100
+    - rid: 2665816729399067108
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 81
+        Position: {x: 0, y: -397.5}
+        ParentCount: 2
+        Childrens:
+        - rid: 2665816729399067106
+        - rid: 2665816729399067104
+    - rid: 2665816729399067109
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 82
+        Position: {x: 147, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067107
+        - rid: 2665816729399067106
+    - rid: 2665816729399067110
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 80
+        Position: {x: -147, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067104
+        - rid: 2665816729399067105
+    - rid: 2665816729399067111
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 83
+        Position: {x: 73.5, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067108
+        - rid: 2665816729399067109
+    - rid: 2665816729399067112
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 84
+        Position: {x: -73.5, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067110
+        - rid: 2665816729399067108
+    - rid: 2665816729399067113
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 85
+        Position: {x: 0, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067111
+        - rid: 2665816729399067112
+    - rid: 2665816729399067114
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 86
+        Position: {x: 0, y: -397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067113
+    - rid: 2665816729399067115
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 8
+        Position: {x: -294, y: 318}
+        ParentCount: 3
+        Childrens: []
+    - rid: 2665816729399067116
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 9
+        Position: {x: -441, y: 318}
+        ParentCount: 2
+        Childrens: []
+    - rid: 2665816729399067117
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 15
+        Position: {x: -441, y: 477}
+        ParentCount: 1
+        Childrens: []
+    - rid: 2665816729399067118
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 16
+        Position: {x: -441, y: 159}
+        ParentCount: 1
+        Childrens: []
+    - rid: 2665816729399067119
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 22
+        Position: {x: -294, y: 159}
+        ParentCount: 2
+        Childrens: []
+    - rid: 2665816729399067120
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 7
+        Position: {x: -147, y: 318}
+        ParentCount: 3
+        Childrens: []
+    - rid: 2665816729399067121
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 21
+        Position: {x: -147, y: 159}
+        ParentCount: 2
+        Childrens: []
+    - rid: 2665816729399067122
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 10
+        Position: {x: 0, y: 318}
+        ParentCount: 4
+        Childrens: []
+    - rid: 2665816729399067123
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 20
+        Position: {x: 0, y: 159}
+        ParentCount: 2
+        Childrens: []
+    - rid: 2665816729399067124
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 11
+        Position: {x: 147, y: 318}
+        ParentCount: 3
+        Childrens: []
+    - rid: 2665816729399067125
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 19
+        Position: {x: 147, y: 159}
+        ParentCount: 2
+        Childrens: []
+    - rid: 2665816729399067126
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 12
+        Position: {x: 294, y: 318}
+        ParentCount: 3
+        Childrens: []
+    - rid: 2665816729399067127
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 18
+        Position: {x: 294, y: 159}
+        ParentCount: 2
+        Childrens: []
+    - rid: 2665816729399067128
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 13
+        Position: {x: 441, y: 318}
+        ParentCount: 2
+        Childrens: []
+    - rid: 2665816729399067129
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 17
+        Position: {x: 441, y: 159}
+        ParentCount: 1
+        Childrens: []
+    - rid: 2665816729399067130
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 14
+        Position: {x: 441, y: 477}
+        ParentCount: 1
+        Childrens: []
+    - rid: 2665816729399067131
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 0
+        Position: {x: 0, y: 795}
+        ParentCount: 2
+        Childrens: []
+    - rid: 2665816729399067132
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 1
+        Position: {x: -147, y: 636}
+        ParentCount: 1
+        Childrens: []
+    - rid: 2665816729399067133
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 2
+        Position: {x: 0, y: 636}
+        ParentCount: 2
+        Childrens: []
+    - rid: 2665816729399067134
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 3
+        Position: {x: 147, y: 636}
+        ParentCount: 1
+        Childrens: []
+    - rid: 2665816729399067135
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 5
+        Position: {x: 0, y: 477}
+        ParentCount: 2
+        Childrens: []
+    - rid: 2665816729399067136
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 6
+        Position: {x: 147, y: 477}
+        ParentCount: 1
+        Childrens: []
+    - rid: 2665816729399067137
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 4
+        Position: {x: -147, y: 477}
+        ParentCount: 1
+        Childrens: []
+    - rid: 2665816729399067138
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 96
+        Position: {x: -73.5, y: 715.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067131
+        - rid: 2665816729399067132
+        - rid: 2665816729399067133
+    - rid: 2665816729399067139
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 100
+        Position: {x: -73.5, y: 715.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067138
+    - rid: 2665816729399067140
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 97
+        Position: {x: 73.5, y: 715.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067131
+        - rid: 2665816729399067133
+        - rid: 2665816729399067134
+    - rid: 2665816729399067141
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 102
+        Position: {x: 73.5, y: 715.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067140
+    - rid: 2665816729399067142
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 91
+        Position: {x: -73.5, y: 238.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067120
+        - rid: 2665816729399067122
+        - rid: 2665816729399067123
+        - rid: 2665816729399067121
+    - rid: 2665816729399067143
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 92
+        Position: {x: 73.5, y: 238.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067122
+        - rid: 2665816729399067124
+        - rid: 2665816729399067125
+        - rid: 2665816729399067123
+    - rid: 2665816729399067144
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 98
+        Position: {x: 73.5, y: 397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067135
+        - rid: 2665816729399067136
+        - rid: 2665816729399067122
+        - rid: 2665816729399067124
+    - rid: 2665816729399067145
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 99
+        Position: {x: -73.5, y: 397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067137
+        - rid: 2665816729399067135
+        - rid: 2665816729399067120
+        - rid: 2665816729399067122
+    - rid: 2665816729399067146
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 104
+        Position: {x: 0, y: 318}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067142
+        - rid: 2665816729399067143
+        - rid: 2665816729399067144
+        - rid: 2665816729399067145
+    - rid: 2665816729399067147
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 105
+        Position: {x: 0, y: 318}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067146
+    - rid: 2665816729399067148
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 101
+        Position: {x: -73.5, y: 715.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067139
+    - rid: 2665816729399067149
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 103
+        Position: {x: 73.5, y: 715.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067141
+    - rid: 2665816729399067150
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 88
+        Position: {x: -367.5, y: 397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067115
+        - rid: 2665816729399067116
+        - rid: 2665816729399067117
+    - rid: 2665816729399067151
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 108
+        Position: {x: -367.5, y: 397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067150
+    - rid: 2665816729399067152
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 89
+        Position: {x: -367.5, y: 238.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067115
+        - rid: 2665816729399067116
+        - rid: 2665816729399067118
+        - rid: 2665816729399067119
+    - rid: 2665816729399067153
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 90
+        Position: {x: -220.5, y: 238.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067120
+        - rid: 2665816729399067115
+        - rid: 2665816729399067121
+        - rid: 2665816729399067119
+    - rid: 2665816729399067154
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 109
+        Position: {x: -367.5, y: 397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067151
+    - rid: 2665816729399067155
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 93
+        Position: {x: 220.5, y: 238.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067124
+        - rid: 2665816729399067126
+        - rid: 2665816729399067127
+        - rid: 2665816729399067125
+    - rid: 2665816729399067156
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 94
+        Position: {x: 367.5, y: 238.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067126
+        - rid: 2665816729399067128
+        - rid: 2665816729399067129
+        - rid: 2665816729399067127
+    - rid: 2665816729399067157
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 95
+        Position: {x: 367.5, y: 397.5}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067126
+        - rid: 2665816729399067128
+        - rid: 2665816729399067130
+    - rid: 2665816729399067158
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 69
+        Position: {x: -73.5, y: 0}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067090
+        - rid: 2665816729399067091
+    - rid: 2665816729399067159
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 70
+        Position: {x: 73.5, y: 0}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067092
+        - rid: 2665816729399067090
+    - rid: 2665816729399067160
+      type: {class: Node, ns: Game, asm: Game}
+      data:
+        Id: 112
+        Position: {x: 0, y: 0}
+        ParentCount: 1
+        Childrens:
+        - rid: 2665816729399067158
+        - rid: 2665816729399067159

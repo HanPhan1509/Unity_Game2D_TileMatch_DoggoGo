@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: levelslectededPopup
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 468afffa30f37824787e4d74a0fd92fd, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 15e00871a45fc6846be6dee1e4f6b49e, type: 3}
+  - {fileID: 21300000, guid: 71e14d72ba7c6c844aedab122c46c0f7, type: 3}
+  - {fileID: 21300000, guid: 16cefee33cb2dda45b74fda65ccd769e, type: 3}
+  - {fileID: 21300000, guid: ad6b1c386e52a0e478b262cfcc369b34, type: 3}
+  - {fileID: 21300000, guid: bfa09cb83ccb22f49a8c717b01116a52, type: 3}
+  - {fileID: 21300000, guid: 65bdedb82ac2b144aa44e7e41de825cc, type: 3}
+  - {fileID: 21300000, guid: ec210d29e5050fe4d83ada1997f8048c, type: 3}
+  - {fileID: 21300000, guid: 7f4173493e18baf41a2bbf23d61736c3, type: 3}
+  - {fileID: 21300000, guid: f58503ca345cd634b83d0774af3736fe, type: 3}
+  - {fileID: 21300000, guid: c01a0efb4b6cda742b1da1156c7ea462, type: 3}
+  - {fileID: 21300000, guid: a149448c2f3d7064fa9f817b154e952a, type: 3}
+  - {fileID: 21300000, guid: a566b33d169d1f042bd53cfa23fe94de, type: 3}
+  - {fileID: 21300000, guid: c3da49bd484f7dc47bc4775ecf2c5158, type: 3}
+  - {fileID: 21300000, guid: d8d243ede74196d4283b625eee48bffc, type: 3}
+  - {fileID: 21300000, guid: ec86487e371dfd14bab0402aa3a68c6d, type: 3}
+  - {fileID: 21300000, guid: 2e9168ff5b2215f44b3c757040c5f12f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - khung_xanh_pop_up
+  - lock
+  - sao_off
+  - thanh_vang
+  - than khoa
+  - nut_keo_xuong
+  - sao_onl
+  - lvselect
+  - giay
+  - khung_xanh
+  - khoa
+  - nut_do
+  - o_xanh
+  - khung_dut
+  - x
+  - giay_pop_up
+  m_RenderDataMap: {}
+  m_Tag: levelslectededPopup
+  m_IsVariant: 0

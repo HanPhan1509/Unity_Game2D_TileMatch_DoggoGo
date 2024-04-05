@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: settingPopup
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 56cb8f48a3495fe41944195838104034, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 7d1d736044950ea4fb4e322aee75b6bd, type: 3}
+  - {fileID: 21300000, guid: c1a06381c0a70a24dbee651b8cd1279f, type: 3}
+  - {fileID: 21300000, guid: a4151c521e900e845b81c320ed16b040, type: 3}
+  - {fileID: 21300000, guid: 4d2cd1f2b4d192643ac41a955a0a6bde, type: 3}
+  - {fileID: 21300000, guid: fb4aed44d18affd4bb7db94ffb840b18, type: 3}
+  - {fileID: 21300000, guid: 2dda505427c6a0f4890327aee5275944, type: 3}
+  - {fileID: 21300000, guid: 4d18c494c44adb24496f2b0b0b68f1d6, type: 3}
+  - {fileID: 21300000, guid: 1c58d23664efd4c4696eee6788877714, type: 3}
+  - {fileID: 21300000, guid: ded29a46573f728448d3fc13e373968a, type: 3}
+  - {fileID: 21300000, guid: 15b166d63958b0445981513ec8127566, type: 3}
+  - {fileID: 21300000, guid: 95559c9783f2583488e4b201be0595f2, type: 3}
+  - {fileID: 21300000, guid: 77b5697d589ff4e4fb6fbe165e35f3eb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - x
+  - thanh_vang
+  - khung_keo
+  - loa_icon
+  - settings
+  - thanh_keo
+  - thanh_keo_mask
+  - nut_do
+  - nhac_icon
+  - khung_dut
+  - tim
+  - khung_xanh
+  m_RenderDataMap: {}
+  m_Tag: settingPopup
+  m_IsVariant: 0

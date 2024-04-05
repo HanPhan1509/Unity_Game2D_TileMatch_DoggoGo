@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: boosterPopup
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: e8cce83276d358349b37ab50bcec7049, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b1b11ce41f617c24b83fc555712f7584, type: 3}
+  - {fileID: 21300000, guid: 79b72425d67eed0469830f94256e597a, type: 3}
+  - {fileID: 21300000, guid: ab06db1621e2ecc4f8a306038cbc50f9, type: 3}
+  - {fileID: 21300000, guid: f4a09db948006b44685631068ffc57f2, type: 3}
+  - {fileID: 21300000, guid: 2bbb31ba1de9924498a445e5c08ee704, type: 3}
+  - {fileID: 21300000, guid: 8917bcfb182c4a6408795ed208d85ba5, type: 3}
+  - {fileID: 21300000, guid: 9442c69c47f36fb489807c16c8f4dca0, type: 3}
+  - {fileID: 21300000, guid: 47ba2a6d9a4d70c45bc8e3a53e95ad28, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - +1
+  - +1 SLOT
+  - khung_dut
+  - icon_ads
+  - thanh_vang
+  - x
+  - nut_do
+  - khung_xanh
+  m_RenderDataMap: {}
+  m_Tag: boosterPopup
+  m_IsVariant: 0
